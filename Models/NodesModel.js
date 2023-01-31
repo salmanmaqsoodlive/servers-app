@@ -1,7 +1,7 @@
 module.exports = {
   getStatus: () => {
     return {
-      node_name: 'Secret Lowlands'
+      node_name: 'AWS Lowlands'
     };
   },
   getBlocks: () => [
